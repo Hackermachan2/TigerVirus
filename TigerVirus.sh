@@ -3,12 +3,12 @@ clear
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m Welcome to [\e[1m\e[32mTIGER VIRUS\e[21m\e[31m V 2.3\e[33m]"
+echo -e "\e[33m Welcome to [\e[1m\e[32mHACKERMACHAN VIRUS\e[21m\e[31m V 2.3\e[33m]"
 echo " "
 sleep 1
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m•••Script by \e[36mThe Devil Tigers\e[33m•••"
+echo -e "\e[33m•••Script by \e[36mHACKERMACHAN\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
@@ -73,7 +73,7 @@ else
 
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
     echo " " 
-                    echo -e "\e[36m >>> STARTING TIGER VIRUS..."
+                    echo -e "\e[36m >>> STARTING HACKERMACHAN VIRUS..."
                     echo " "
                     sleep 2
                     
@@ -1097,7 +1097,7 @@ echo -e "\e[39m"
 fi
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
-echo -e "\e[103mSEARCH *The Devil Tigers*"
+echo -e "\e[103mSEARCH *Hackermachan*"
 echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
